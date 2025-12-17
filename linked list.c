@@ -70,3 +70,4 @@ int main(){
 	freenode(head);
 	return 0;
 	}
+
